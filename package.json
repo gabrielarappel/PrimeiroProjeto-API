@@ -1,0 +1,26 @@
+{
+  "name": "primeiroprojeto-api",
+  "version": "1.0.0",
+  "description": "Primeiro projeto do PT Dev - BackEnd",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gabrielarappel/PrimeiroProjeto-API.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gabrielarappel/PrimeiroProjeto-API/issues"
+  },
+  "homepage": "https://github.com/gabrielarappel/PrimeiroProjeto-API#readme",
+  "dependencies": {
+    "chalk": "^5.6.2",
+    "inquirer": "^12.9.6"
+  }
+}
